@@ -1,0 +1,42 @@
+[
+  {
+    "menu_1": {
+      "title": "Kawy",
+      "expandedLeftListInner": {
+        "el1": "Kawy mielone",
+        "el2": "kawy ziarniste",
+        "el3": "Kawy rozpuszczalne",
+        "el4": "Wszystkie Kawy"
+      }
+    },
+    "menu_2": {
+      "title": "Słodkości",
+      "expandedLeftListInner": {
+        "el1": "Miody",
+        "el2": "Syropy do kawy",
+        "el3": "Wszystkie Słodkości"
+      }
+    },
+    "menu_3": {
+      "title": "Akcesoria",
+      "expandedLeftListInner": {
+        "el1": "Młynki",
+        "el2": "Urządzania do parzenia",
+        "el3": "Porcelana",
+        "el4": "Do ekspresów",
+        "el5": "Spieniacze",
+        "el6": "Ekspresy",
+        "el7": "Wszystkie Akcesoria"
+      }
+    },
+    "menu_4": {
+      "title": "Przepisyi porady"
+    },
+    "menu_5": {
+      "title": "VademecumMK Cafe"
+    },
+    "menu_6": {
+      "title": "Kontakt"
+    }
+  }
+]

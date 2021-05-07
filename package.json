@@ -1,0 +1,14 @@
+{
+  "name": "mkcafecypress",
+  "version": "1.0.0",
+  "description": "For testing purposes only, a small POM which shows the possibilities of cypress io in practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress:open"
+  },
+  "author": "Michal Kmiecik",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^6.3.0"
+  }
+}
